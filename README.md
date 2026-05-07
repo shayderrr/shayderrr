@@ -1,5 +1,6 @@
-<img width="1024" height="1024" alt="4183faf367ad2a9f0b50dbb0e96e02df" src="https://github.com/user-attachments/assets/7864c0cb-49d6-4cdf-8913-d5643e862de6" />
+
 # shayder
+<img width="500" height="500" alt="4183faf367ad2a9f0b50dbb0e96e02df" src="https://github.com/user-attachments/assets/7864c0cb-49d6-4cdf-8913-d5643e862de6" />
 hi i'm shayder
 developer, c#/c++, js & ts
 

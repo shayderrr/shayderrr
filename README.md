@@ -10,7 +10,9 @@ learning rust, golang, and ruby
 
 ## what working on
 gn-math, a unblocked game site that hosts web ports of games
+
 Ultimate Game Stash, a unblocked document that hosts the largest collection of games (1.7k+)
+
 wasm.rip, a webporting organization that ports PC Games to the web
 
 
@@ -20,6 +22,7 @@ my email is darknessshayder@gmail.com
 my discord is shxyder (what i'm most active on)
 ## things i've contributed to
 truffled.lol, around two web ports
+
 Peak UBG, around 7-8 web ports
 
 --alot of other sites that use gn-math lib

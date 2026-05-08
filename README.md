@@ -1,7 +1,8 @@
 
 # about me 
 
-<img width="520" height="520" alt="0e1106bc80b11520486e0e062db08a0f" src="https://github.com/user-attachments/assets/cad7f7be-3c02-488a-91eb-6476b05b9cd6" />
+<img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/d5d8d827-cfaa-4f0b-bebb-5f6c96dff865" />
+
 
 
 

@@ -1,6 +1,8 @@
 
 # about me 
-<img width="520" height="520" alt="b2e8182518dd4be41bd572c129238e3d" src="https://github.com/user-attachments/assets/9e0709f6-a720-4590-b1de-e731d3d55658" />
+
+<img width="520" height="520" alt="0e1106bc80b11520486e0e062db08a0f" src="https://github.com/user-attachments/assets/cad7f7be-3c02-488a-91eb-6476b05b9cd6" />
+
 
 
 hi i'm shayder

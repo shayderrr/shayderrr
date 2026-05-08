@@ -42,8 +42,9 @@ i enjoy breakcore, i just like the ambience of it lol
 
 if you have any questions, feel free to ask me! i'm always open on my contacts provided 
 
-## some yap
-originally started like in december (can you believe it! came along way lmao) and i first started contributing to UGS, with the form of ripped games and flash games. eventually i got accepted as a Jr Editor, and I quickly rose the ranks all the way to editor! My gn-math journey started like 2 months ago when i filled a app, and with the games that was added on to ugs (my games) i eventually rose the ranks even further to a moderator/porter for gn-math
+## how i started
 
-day ones are dudeluther, peakyrexed, and q8j. without them i wouldn't be here, so thanks to you guys !
+originally started making UBG/Development (js) in november, starting my first project known as Game Vault. I began experimenting and eventually figured out how to rip mods, and then got curious in programming. Then I started web porting, rising the ranks in UGS and gn-math, and becoming well known in the UBG community.
+
+day ones are dudeluther, peakyrexed, airseedy/anon, and q8j. without them i wouldn't be here, so thanks to you guys !
 

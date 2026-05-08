@@ -1,6 +1,7 @@
 
-# portfoilo
-<img width="500" height="500" alt="4183faf367ad2a9f0b50dbb0e96e02df" src="https://github.com/user-attachments/assets/7864c0cb-49d6-4cdf-8913-d5643e862de6" />
+# about me 
+<img width="520" height="520" alt="b2e8182518dd4be41bd572c129238e3d" src="https://github.com/user-attachments/assets/9e0709f6-a720-4590-b1de-e731d3d55658" />
+
 
 hi i'm shayder
 

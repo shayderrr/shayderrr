@@ -34,7 +34,7 @@ Peak UBG, around 7-8 web ports
 ## interests
 development, webporting, cybersec.
 
-i use kali linux (no larp)
+i use macOS, windows 11, and arch linux (wsl)
 
 i enjoy breakcore, i just like the ambience of it lol
 

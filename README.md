@@ -29,7 +29,11 @@ truffled.lol, around two web ports
 
 Peak UBG, around 7-8 web ports
 
---alot of other sites that use gn-math lib
+Gn Math, Around 10 web ports
+
+Ultimate Game Stash, around 25 web ports + 100 rips
+
+Alot of other sites that use the GN math Lib for games or the UGS game lib for their games.
 
 ## interests
 development, webporting, cybersec.

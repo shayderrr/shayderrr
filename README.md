@@ -37,8 +37,6 @@ Ultimate Game Stash, around 25 web ports + 100 rips
 Alot of other sites that use the GN math Lib for games or the UGS game lib for their games.
 
 ### projects
-ASM2WASM, a way to compile .asm to .wasm and .js files
-
 Ghost, a parallels alternative for accessing windows on MacOS
 
 wasm.rip, a webporting organization (webporting - as in decompiling a game and recompiling it to work in web browsers)
@@ -46,7 +44,7 @@ wasm.rip, a webporting organization (webporting - as in decompiling a game and r
 ## interests
 development, webporting, cybersecurity.
 
-i use macOS, windows 11, and arch linux (wsl)
+i use macOS, windows 11, and arch linux 
 
 13
 

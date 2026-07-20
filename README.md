@@ -48,8 +48,6 @@ development, webporting, cybersecurity.
 
 i use macOS, windows 11, and arch linux 
 
-13
-
 if you have any questions, feel free to ask me! i'm always open on my contacts provided 
 
 ## other

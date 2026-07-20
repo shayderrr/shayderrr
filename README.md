@@ -41,6 +41,8 @@ Ghost, a parallels alternative for accessing windows on MacOS
 
 wasm.rip, a webporting organization (webporting - as in decompiling a game and recompiling it to work in web browsers)
 
+visigit, a visualizer for git/gh repos
+
 ## interests
 development, webporting, cybersecurity.
 

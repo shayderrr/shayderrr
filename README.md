@@ -1,5 +1,5 @@
-
 # shxyder
+
 <img width="736" height="244" alt="390616967697085900" src="https://github.com/user-attachments/assets/ec85105e-b0e4-4a0c-a390-fb6d39c7cd8f" />
 
 hey i'm shayder
@@ -9,10 +9,12 @@ developer & programmer, into systems
 founder @ wasmdotrip
 
 ## me ♥️
- 
-![literally me](https://skillicons.dev/icons?i=c,cpp,linux,git,github,cs,java,wasm,js,html,css,ts,debian)
 
-fav compiler --> ![gnu](https://img.shields.io/badge/GCC-A8B9CC?style=for-the-badge&logo=gnu&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,cs,java,wasm,js,html,css,ts,debian" height="48" />
+  <img src="./gnu-tile.svg" width="48" height="48" alt="gnu" />
+</p>
+
 ## what i do
 
 work on shit (lmao), mainly random c++ and c# programs, and web pages that are (somewhat) useful
@@ -25,17 +27,16 @@ love this game --> ![goated game](https://img.shields.io/badge/CS2-000000?style=
 
 ## contact
 
-[darknessshayder@gmail.com](mailto:darknesshayder@gmail.com) 
+[darknessshayder@gmail.com](mailto:darknessshayder@gmail.com)
 
 ## projects
-visigit
 
-GTA 3 Web port
+- visigit
+- GTA 3 Web port
+- random web ports lmao
 
-random web ports lmao
-
--note: ion really post most of my projects here, just interested in computers lol
+note: ion really post most of my projects here, just interested in computers lol
 
 ## activity
-![larp](https://github-readme-streak-stats-eight.vercel.app?user=shayderrr&theme=dark&hide_border=true&background=0D1117)
 
+![larp](https://github-readme-streak-stats-eight.vercel.app?user=shayderrr&theme=dark&hide_border=true&background=0D1117)

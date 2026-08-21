@@ -1,57 +1,38 @@
 
-# about me 
+# shxyder
+<img width="736" height="244" alt="390616967697085900" src="https://github.com/user-attachments/assets/ec85105e-b0e4-4a0c-a390-fb6d39c7cd8f" />
 
-<img width="520" height="520" alt="4db23482da80c8873a0ae5896d39e967" src="https://github.com/user-attachments/assets/ee95b4b7-c192-4679-9cd0-435f279d567c" />
+hey i'm shayder
 
+developer & programmer, into systems
 
+founder @ wasmdotrip
 
+## me ♥️
+ 
+![literally me](https://skillicons.dev/icons?i=c,cpp,gcc,linux,git,github,cs,java,wasm,js,html,css,ts,debian)
 
+## what i do
 
-hi i'm shayder
+work on shit (lmao), mainly random c++ and c# programs, and web pages that are (somewhat) useful
 
-frontend + backend developer, i know c#, c/c++, and javascript/typescript
+reverse engineer/game decompiler, I port games to the web.
 
-learning rust, golang, and ruby
+i use debian btw
 
-## what working on
-gn-math, a unblocked game site that hosts web ports of games
-
-Ultimate Game Stash, a unblocked document that hosts the largest collection of games (1.7k+)
-
-wasm.rip, a webporting organization that ports PC Games to the web
-
+![goated game](https://img.shields.io/badge/CS2-000000?style=for-the-badge&logo=counterstrike&logoColor=white)
 
 ## contact
-my email is darknessshayder@gmail.com
 
-my discord is shxyder (what i'm most active on)
-## things i've contributed to
-### ubg
-truffled.lol, around two web ports
+[darknessshayder@gmail.com](mailto:darknesshayder@gmail.com) 
 
-Peak UBG, around 7-8 web ports
+## projects
+visigit
 
-Gn Math, Around 10 web ports
+GTA 3 Web port
 
-Ultimate Game Stash, around 25 web ports + 100 rips
+random web ports lmao
 
-Alot of other sites that use the GN math Lib for games or the UGS game lib for their games.
-
-### projects
-Ghost, a parallels alternative for accessing windows on MacOS
-
-wasm.rip, a webporting organization (webporting - as in decompiling a game and recompiling it to work in web browsers)
-
-visigit, a visualizer for git/gh repos
-
-## interests
-development, webporting, cybersecurity.
-
-i use macOS, windows 11, and arch linux 
-
-if you have any questions, feel free to ask me! i'm always open on my contacts provided 
-
-## other
-
-day ones are dudeluther, peakyrexed, airseedy/anon, and q8j. without them i wouldn't be here, so thanks to you guys !
+## activity
+![larp](https://streak-stats.demolab.com?user=shayderrr&theme=dark&hide_border=true&background=0D1117)
 

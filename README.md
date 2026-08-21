@@ -10,8 +10,9 @@ founder @ wasmdotrip
 
 ## me ♥️
  
-![literally me](https://skillicons.dev/icons?i=c,cpp,gcc,linux,git,github,cs,java,wasm,js,html,css,ts,debian)
+![literally me](https://skillicons.dev/icons?i=c,cpp,linux,git,github,cs,java,wasm,js,html,css,ts,debian)
 
+fav compiler --> ![gnu](https://img.shields.io/badge/GCC-A8B9CC?style=for-the-badge&logo=gnu&logoColor=black)
 ## what i do
 
 work on shit (lmao), mainly random c++ and c# programs, and web pages that are (somewhat) useful
@@ -20,7 +21,7 @@ reverse engineer/game decompiler, I port games to the web.
 
 i use debian btw
 
-![goated game](https://img.shields.io/badge/CS2-000000?style=for-the-badge&logo=counterstrike&logoColor=white)
+love this game --> ![goated game](https://img.shields.io/badge/CS2-000000?style=for-the-badge&logo=counterstrike&logoColor=white)
 
 ## contact
 

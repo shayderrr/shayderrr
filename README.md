@@ -6,7 +6,7 @@ hey i'm shayder
 
 developer & programmer, into systems
 
-founder @ wasmdotrip
+founder @ [wasm.rip]("https://wasm.rip")
 
 ## me ♥️
 
@@ -23,12 +23,13 @@ reverse engineer/game decompiler, I port games to the web.
 
 i use debian btw
 
-love this game --> ![goated game](https://img.shields.io/badge/CS2-000000?style=for-the-badge&logo=counterstrike&logoColor=white)
+i love cs2
 
 ## contact
 
 [darknessshayder@gmail.com](mailto:darknessshayder@gmail.com)
 
+[discord](https://discord.com/users/1090734561006198814)
 ## projects
 
 - visigit

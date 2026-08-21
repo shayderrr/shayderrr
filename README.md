@@ -34,6 +34,8 @@ GTA 3 Web port
 
 random web ports lmao
 
+-note: ion really post most of my projects here, just interested in computers lol
+
 ## activity
-![larp](https://streak-stats.demolab.com?user=shayderrr&theme=dark&hide_border=true&background=0D1117)
+![larp](https://github-readme-streak-stats-eight.vercel.app?user=shayderrr&theme=dark&hide_border=true&background=0D1117)
 

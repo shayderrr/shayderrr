@@ -19,7 +19,9 @@ founder @ [wasm.rip]("https://wasm.rip")
 
 work on shit (lmao), mainly random c++ and c# programs, and web pages that are (somewhat) useful
 
-reverse engineer/game decompiler, I port games to the web.
+game decompiler (port games to the web)
+
+reverse engineer (i :heart: ghidra)
 
 i use debian btw
 

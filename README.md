@@ -35,7 +35,6 @@ i love cs2
 ## projects
 
 - visigit
-- GTA 3 Web port
 - random web ports lmao
 
 note: ion really post most of my projects here, just interested in computers lol

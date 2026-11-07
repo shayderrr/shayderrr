@@ -2,7 +2,7 @@
 
 <img width="736" height="244" alt="390616967697085900" src="https://github.com/user-attachments/assets/ec85105e-b0e4-4a0c-a390-fb6d39c7cd8f" />
 
-hey i'm shayder
+hey i'm [shayder](https://shayder.bond)
 
 developer & programmer, into systems
 
@@ -28,8 +28,6 @@ i use debian btw
 i love cs2
 
 ## contact
-
-[darknessshayder@gmail.com](mailto:darknessshayder@gmail.com)
 
 [discord](https://discord.com/users/1090734561006198814)
 ## projects
